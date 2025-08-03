@@ -1,12 +1,12 @@
 # Unity Addressables CDN
 
-This repository hosts Unity Addressable assets for the AddressableTest project.
+This repository hosts Unity Addressable assets for the AddressableTestUnity project.
 
 ## Configuration
 
-- **Repository**: YOUR_GITHUB_USERNAME/AddressableTest
-- **GitHub Pages URL**: https://YOUR_GITHUB_USERNAME.github.io/AddressableTest/
-- **Unity Remote Load Path**: https://YOUR_GITHUB_USERNAME.github.io/AddressableTest/[BuildTarget]
+- **Repository**: NickHung0807/AddressableTestUnity
+- **GitHub Pages URL**: https://NickHung0807.github.io/AddressableTestUnity/
+- **Unity Remote Load Path**: https://NickHung0807.github.io/AddressableTestUnity/[BuildTarget]
 
 ## Supported Platforms
 
@@ -19,4 +19,4 @@ This repository hosts Unity Addressable assets for the AddressableTest project.
 
 Configure your Unity Addressables settings with the Remote Load Path above.
 
-Last Updated: 2025-08-03 03:01:47 UTC
+Last Updated: 2025-08-03 03:13:48 UTC
