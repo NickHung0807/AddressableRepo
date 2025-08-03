@@ -19,4 +19,4 @@ This repository hosts Unity Addressable assets for the AddressableTestUnity proj
 
 Configure your Unity Addressables settings with the Remote Load Path above.
 
-Last Updated: 2025-08-03 03:15:48 UTC
+Last Updated: 2025-08-03 03:17:56 UTC
